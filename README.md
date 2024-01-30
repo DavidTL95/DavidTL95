@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **an indie 2D videogame**
+- 🔭 I’m currently working on **an indie 2D videogame**;
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**;
 
-- 🤝 I’m currently studying **web application development**
+- 🤝 I’m currently studying **web application development**;
 
-- 📫 How to reach me **david.torrado95@gmail.com**
+- 📫 How to reach me: **david.torrado95@gmail.com**;
 
-- ⚡ Fun fact **people around me think I’m a robot 🤖**
+- ⚡ Fun fact: **people around me think I’m a robot 🤖**;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
